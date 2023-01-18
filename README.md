@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @10QwErTy01
-- 👀 I am interested in the Softwer and graphics programming. In general I study IT and telecommunications and also IT security.
+- 👀 I am interested at the Softwer's programming. In general I study IT and telecommunications and also IT security.
 - 🌱 I am currently learning to program a bit in general with languages like c, html, python etc. 
 - 📫 To contact me, use this telegram bot by starting it and pressing the data buttons.
 
